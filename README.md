@@ -1,5 +1,7 @@
 # Запустить программу локально !!!
 
+### `git clone https://github.com/kalelov555/3205-frontend.git`
+
 ### `npm install`
 
 ### `npm start`
