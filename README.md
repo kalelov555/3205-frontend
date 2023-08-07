@@ -1,6 +1,12 @@
 # Запустить программу локально !!!
 
+создать или уже в существующую папку "3205" склонировать фронт
+
+## node version 16.0
+
 ### `git clone https://github.com/kalelov555/3205-frontend.git`
+
+### `cd 3205-frontend`
 
 ### `npm install`
 
